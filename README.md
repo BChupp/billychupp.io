@@ -1,8 +1,8 @@
 # billychupp.io
 
-# Environmental Consulting Resume Website
+# My Resume Website
 
-This repository contains the code for a personal resume website designed to showcase expertise in environmental consulting, air quality modeling, and data science. The website is built using **Shiny for Python** and provides an interactive way to present professional experience, education, skills, and projects.
+This repository contains the code for my personal resume website designed to showcase expertise in environmental consulting, air quality modeling, and data science. The website is built using **Shiny for Python** and provides an interactive way to present professional experience, education, skills, and projects.
 
 ---
 
@@ -20,4 +20,4 @@ This repository contains the code for a personal resume website designed to show
 ### Prerequisites
 Ensure you have Python installed along with the following required library:
 ```bash
-pip install streamlit
+pip install shiny
